@@ -1,4 +1,6 @@
-public class Greeter
+package Challenges;
+
+class Greeter
 {
     void greet()
     {

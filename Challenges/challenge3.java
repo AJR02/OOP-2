@@ -1,5 +1,8 @@
+package Challenges;
+
 import java.util.Scanner;
-public class EvenOrOdd
+
+class EvenOrOdd
 {
     public static void main(String[] args)
     {
@@ -9,11 +12,11 @@ public class EvenOrOdd
 
         if(number%2==0)
         {
-            System.out.println(number + "is even.");
+            System.out.println(number + " is even.");
         }
         else
         {
-            System.out.println(number + "is odd.");
+            System.out.println(number + " is odd.");
         }
         scanner.close();
     }

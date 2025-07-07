@@ -1,3 +1,5 @@
+package Challenges;
+
 class variables
 {
     void showInterest() {
