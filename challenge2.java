@@ -10,9 +10,9 @@ class variables
         interest = 3.0;
         System.out.println("after 2 years:" + amount);
     }
-        public static void main (String[]args)
-        {
-            (new variables()).showInterest();
-        }
+    public static void main (String[]args)
+    {
+        (new variables()).showInterest();
+    }
 
 }
